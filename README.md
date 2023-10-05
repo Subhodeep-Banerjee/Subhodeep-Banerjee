@@ -1,3 +1,4 @@
+![logo](https://github.com/Subhodeep-Banerjee/Subhodeep-Banerjee/blob/main/46eef600-9bab-11ea-87d9-ff5e73c39b97.png)
 <h1 align="center">Hi 👋, I'm Subhodeep Banerjee</h1>
 <h3 align="center">I'm a passionate data science student with a keen interest in leveraging data to solve real-world problems.</h3>
 
